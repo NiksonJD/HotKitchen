@@ -1,6 +1,6 @@
-This is the *HotKitchen* project I made myself.
+This is the *HotKitchen* project 
 
-RESTful API
+RESTful API  works through Postman program
 
 Stage 1/5: SignIn - SingUp
 Create registration and authorization using the database with simple post methods. Connect the database, learn how to store information inside, and correctly process various requests.
